@@ -42,7 +42,7 @@ An AI-powered web application that allows users to extract content from public U
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+https://github.com/subash01/frontend.git
 ```
 cd YOUR_REPO_NAME
 
@@ -52,6 +52,10 @@ cd frontend
 npm install
 or
 yarn install
+```
+To Run Frontend Code Use The Below Command
+```
+npm run dev
 ```
 
 ### 3. Backend
@@ -75,6 +79,10 @@ cd backend
 npm install
 or
 yarn install
+```
+To Run Backend Code Use The Below Command
+```
+npm run dev
 ```
 
 ### 4.  Configure Environment Variables
